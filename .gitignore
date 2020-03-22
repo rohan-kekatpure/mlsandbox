@@ -1,0 +1,6 @@
+**.DS_Store
+.idea
+*.pyc
+data/train
+data/test/*
+naive_bayes/data
